@@ -1,0 +1,7 @@
+C:\Programming\Csharp_AccountApp\Account\bin\Debug\Account.exe.config
+C:\Programming\Csharp_AccountApp\Account\bin\Debug\Account.exe
+C:\Programming\Csharp_AccountApp\Account\bin\Debug\Account.pdb
+C:\Programming\Csharp_AccountApp\Account\obj\Debug\Account.csprojAssemblyReference.cache
+C:\Programming\Csharp_AccountApp\Account\obj\Debug\Account.csproj.CoreCompileInputs.cache
+C:\Programming\Csharp_AccountApp\Account\obj\Debug\Account.exe
+C:\Programming\Csharp_AccountApp\Account\obj\Debug\Account.pdb
